@@ -1,0 +1,26 @@
+{
+  "id": "c6ca5369-e06c-4d1f-ab97-49bcc62cc58b",
+  "name": "JSON Convert",
+  "publisher": "Mattias Boustedt",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50000
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://JsonHelper.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
